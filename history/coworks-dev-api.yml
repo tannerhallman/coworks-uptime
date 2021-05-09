@@ -1,7 +1,7 @@
 url: https://coworks-dev.herokuapp.com/api/v1/heartbeat/check_heartbeat
 status: up
 code: 200
-responseTime: 46
-lastUpdated: 2021-05-08T23:15:10.474Z
+responseTime: 131
+lastUpdated: 2021-05-09T23:14:38.279Z
 startTime: Fri Feb 12 2021 14:15:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
