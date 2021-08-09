@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 162,
-    "timeDay": 33,
-    "timeWeek": 136,
-    "timeMonth": 150,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 62,
+    "timeWeek": 137,
+    "timeMonth": 142,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2021-07-07": 34
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 144,
-    "timeDay": 34,
-    "timeWeek": 140,
-    "timeMonth": 146,
+    "timeDay": 55,
+    "timeWeek": 142,
+    "timeMonth": 138,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2021-07-07": 34,
@@ -47,16 +47,16 @@
     "icon": "https://favicons.githubusercontent.com/coworks-testing.herokuapp.com",
     "slug": "coworks-testing-api",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 153,
-    "timeDay": 32,
-    "timeWeek": 129,
-    "timeMonth": 151,
-    "timeYear": 153,
+    "uptimeYear": "99.59%",
+    "time": 152,
+    "timeDay": 48,
+    "timeWeek": 127,
+    "timeMonth": 139,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2021-03-12": 1055
     }
