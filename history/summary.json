@@ -46,18 +46,19 @@
     "url": "https://coworks-testing.herokuapp.com/api/v1/heartbeat/check_heartbeat",
     "icon": "https://favicons.githubusercontent.com/coworks-testing.herokuapp.com",
     "slug": "coworks-testing-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 153,
-    "timeDay": 639,
-    "timeWeek": 188,
-    "timeMonth": 150,
-    "timeYear": 153,
+    "time": 154,
+    "timeDay": 422,
+    "timeWeek": 190,
+    "timeMonth": 152,
+    "timeYear": 154,
     "dailyMinutesDown": {
+      "2021-08-18": 0,
       "2021-03-12": 1055
     }
   }
